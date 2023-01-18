@@ -1,2 +1,1 @@
-# Microsoft-SQL-Server-Management-Studio-Skills
-Portfolio One
+This SQL file is meant to serve as my portfolio. I have downloaded the data from https://ourworldindata.org/covid-deaths. I then cleaned it in Excel and saved two different versions under CovidDeaths and CovidVaccinations which were pulled into Microsoft SQL Server Management Studio. 
